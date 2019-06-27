@@ -19,7 +19,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='pocket-tagger',
-    version='0.1.0',
+    version='0.1.1',
     description='Tag your pocket articles from getpocket.com automatically using NLP',
     long_description=long_description,
     long_description_content_type='text/markdown',
