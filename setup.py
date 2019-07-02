@@ -18,6 +18,14 @@ here = path.abspath(path.dirname(__file__))
 with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
+'''
+When bumping the version
+1. Update version number in this file
+2. Generate package tar file - python setup.py sdist
+3. Publish the package - twine upload dist/*
+4. Tag the commit with same version number and push the tag to github
+'''
+
 setup(name='pocket-tagger',
     version='0.1.1',
     description='Tag your pocket articles from getpocket.com automatically using NLP',

@@ -160,3 +160,6 @@ Sample output from running it for my 490 items long Pocket list
 - [Google Cloud Natural Language Processing](https://cloud.google.com/natural-language/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 - [Complete list of content categories from Google Natural Language API](https://cloud.google.com/natural-language/docs/categories)
+
+## Analytics
+[![Analytics](https://ga-beacon.appspot.com/UA-59542024-4/pocket-tagger/)](https://github.com/igrigorik/ga-beacon)
